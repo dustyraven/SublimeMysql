@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+e"], "command": "mysql" },
+    { "keys": ["ctrl+shift+e"], "command": "shоw_databases" }
+]

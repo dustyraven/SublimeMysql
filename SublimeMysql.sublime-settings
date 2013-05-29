@@ -1,0 +1,24 @@
+{
+    "host": "localhost",
+    "dbport": 3306,
+    "user": "",
+    "passwd": "",
+    //statup database
+    "dbname": "",
+
+
+    "save_before_run": false,
+    "mysql_executable": "/usr/bin/mysql",
+    "temp_file_location": "/tmp/",
+
+    "show_query_in_result": false,
+    "run_query_from_selection": true,
+
+    //needs FormatSQL plugin from package manager
+    //https://github.com/freewizard/SublimeFormatSQL
+    "format_sql_on_run": false,
+
+
+    //https://github.com/vkocubinsky/SublimeTableEditor
+    "use_table_editor": false
+}
